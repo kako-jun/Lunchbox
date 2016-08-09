@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<Setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <lunches />
+  <timing>Desktop</timing>
+  <moratoriumDelayMs>30000</moratoriumDelayMs>
+  <moratoriumMs>10000</moratoriumMs>
+  <iconRect>
+    <Location>
+      <X>1520</X>
+      <Y>1130</Y>
+    </Location>
+    <Size>
+      <Width>400</Width>
+      <Height>70</Height>
+    </Size>
+    <X>1520</X>
+    <Y>1130</Y>
+    <Width>400</Width>
+    <Height>70</Height>
+  </iconRect>
+  <getImageIntervalMs>3000</getImageIntervalMs>
+  <startUp>false</startUp>
+  <autoOff>false</autoOff>
+  <lastMessageOn>true</lastMessageOn>
+  <lastMessage>Launch completed. Have fun.</lastMessage>
+  <lastSoundOn>false</lastSoundOn>
+  <lastSoundPath />
+  <tileRect>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <Width>300</Width>
+      <Height>350</Height>
+    </Size>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>300</Width>
+    <Height>350</Height>
+  </tileRect>
+  <tileDelayMs>3000</tileDelayMs>
+  <level>0</level>
+</Setting>
