@@ -89,7 +89,7 @@ No damages can be sought against Jpico.
 Let's visit 'Jpico official site'.
                                                               https://jpico.info
 English page is here.
-                                                      http://jpico.info/download
+                                                     https://jpico.info/download
 A world guest book is here.
                                                 https://jpico.info/bbs/guestbook
 --------------------------------------------------------------------------------
